@@ -1,0 +1,3 @@
+[mcp_servers.sprites]
+url = "https://mcp.sprites.ai/mcp"
+auth = "oauth"

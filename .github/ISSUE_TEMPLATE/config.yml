@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Sprites help
+    url: https://www.sprites.ai/mcp
+    about: Setup guides for every MCP client.

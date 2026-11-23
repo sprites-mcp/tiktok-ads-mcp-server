@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "sprites": {
+      "type": "http",
+      "url": "https://mcp.sprites.ai/mcp"
+    }
+  }
+}

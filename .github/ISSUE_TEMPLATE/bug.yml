@@ -1,0 +1,51 @@
+name: Bug report
+description: Something in the TikTok Ads MCP server, its setup or these docs does not work as described.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not paste access tokens, passwords or customer data. For security issues, see SECURITY.md instead.
+  - type: dropdown
+    id: client
+    attributes:
+      label: MCP client
+      options:
+        - Claude (claude.ai or Desktop)
+        - Claude Code
+        - ChatGPT
+        - Codex
+        - Cursor
+        - Gemini CLI
+        - GitHub Copilot (VS Code)
+        - Google Antigravity
+        - Windsurf
+        - Lovable
+        - Grok
+        - Cline
+        - Devin
+        - Replit Agent
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: client_version
+    attributes:
+      label: Client version
+      placeholder: e.g. Cursor 2.1, Codex CLI 0.60
+  - type: textarea
+    id: what_happened
+    attributes:
+      label: What happened
+      description: What you asked, what you expected, and what you got. Include the exact error text.
+    validations:
+      required: true
+  - type: input
+    id: run_id
+    attributes:
+      label: Task id (optional)
+      description: The run id Sprites returned, if any. It helps us find the task.
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce

@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ai.sprites/tiktok-ads",
+  "title": "TikTok Ads by Sprites",
+  "description": "TikTok Ads for AI agents: per-ad results, new hooks, campaigns changed with approval.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.sprites.ai/mcp/tiktok-ads",
+  "repository": {
+    "url": "https://github.com/sprites-ai/tiktok-ads-mcp-server",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://mcp.sprites.ai/icon.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "256x256"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.sprites.ai/mcp"
+    }
+  ]
+}

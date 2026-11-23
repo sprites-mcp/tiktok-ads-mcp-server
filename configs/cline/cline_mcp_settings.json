@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "sprites": {
+      "type": "streamableHttp",
+      "url": "https://mcp.sprites.ai/mcp",
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
