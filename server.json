@@ -6,7 +6,7 @@
   "version": "1.0.0",
   "websiteUrl": "https://www.sprites.ai/mcp/tiktok-ads",
   "repository": {
-    "url": "https://github.com/sprites-ai/tiktok-ads-mcp-server",
+    "url": "https://github.com/sprites-mcp/tiktok-ads-mcp-server",
     "source": "github"
   },
   "icons": [

@@ -4,7 +4,7 @@
 
 Please report security issues privately, not in a public issue.
 
-- Email **siamak@spritesai.com** (the privacy and security contact listed in the Sprites privacy policy), or
+- Email **contact@sprites.ai** (the privacy and security contact listed in the Sprites privacy policy), or
 - use GitHub's **Report a vulnerability** button on this repository's Security tab.
 
 Include what you found, how to reproduce it, and the client you used. Do not include access tokens,
