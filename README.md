@@ -272,7 +272,7 @@ Yes. The connector acts on the Sprites business you select, so you switch client
 **Does it cover other channels?**
 Yes. The same URL reaches Google Ads, Meta Ads, LinkedIn Ads, TikTok Ads, Reddit Ads, Microsoft Advertising,
 Apple Ads, GA4, Search Console, Shopify, SEO and AI visibility, and Google Business Profile, for whatever is
-connected in Sprites. See [ads-mcp-servers](https://github.com/sprites-mcp/ads-mcp-servers).
+connected in Sprites. See [ads-mcp-servers](https://github.com/sprites-ai/ads-mcp-servers).
 
 **How much does it cost?**
 The connector is included in every Sprites plan, and every plan starts with a short trial. See sprites.ai for current plans. TikTok Ads charges its own media
@@ -290,7 +290,7 @@ This server is built and run by [Sprites](https://www.sprites.ai), an AI marketi
 
 - Product page: [sprites.ai/mcp/tiktok-ads](https://www.sprites.ai/mcp/tiktok-ads)
 - Setup guide: [sprites.ai/tiktok-ads-mcp](https://www.sprites.ai/tiktok-ads-mcp)
-- All Sprites MCP servers: [github.com/sprites-mcp](https://github.com/sprites-mcp)
+- All Sprites MCP servers: [github.com/sprites-ai](https://github.com/sprites-ai)
 - Issues with these docs or configs: open an issue here. Security reports: see [SECURITY.md](SECURITY.md).
 
 Licensed under the [MIT License](LICENSE). The license covers the documentation and configuration files in this repository.
